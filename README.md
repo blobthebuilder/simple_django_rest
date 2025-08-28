@@ -67,11 +67,11 @@ npm run dev
 
 | Method | URL                  | Description                        |
 |--------|--------------------|------------------------------------|
-| GET    | /api/actions/       | Retrieve all sustainability actions |
-| POST   | /api/actions/       | Add a new action                   |
-| PUT    | /api/actions/<id>/  | Replace an existing action         |
-| PATCH  | /api/actions/<id>/  | Update specific fields of an action|
-| DELETE | /api/actions/<id>/  | Delete an action                   |
+| GET    | `/api/actions/`       | Retrieve all sustainability actions |
+| POST   | `/api/actions/`       | Add a new action                   |
+| PUT    | `/api/actions/<id>/`  | Replace an existing action         |
+| PATCH  | `/api/actions/<id>/`  | Update specific fields of an action|
+| DELETE | `/api/actions/<id>/`  | Delete an action                   |
 
 **POST / PATCH Payload Example:**
 
@@ -94,5 +94,6 @@ npm run dev
 ## Author
 
 - Built by Frank
+
 
 
