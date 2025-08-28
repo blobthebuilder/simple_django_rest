@@ -13,15 +13,6 @@ Data is stored in a JSON file instead of a traditional database, per project req
 
 ---
 
-## Project Structure
-
-project-root/
-├─ backend/        # Django backend
-├─ frontend/       # React frontend (Vite)
-└─ actions.json    # JSON data storage
-
----
-
 ## Getting Started
 
 ### 1. Backend (Django API)
@@ -103,3 +94,4 @@ npm run dev
 ## Author
 
 - Built by [Your Name]
+
