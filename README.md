@@ -28,7 +28,7 @@ pip install -r requirements.txt
 3. Run the server:
 
 python manage.py runserver
-# or
+or
 python3 manage.py runserver
 
 - The API will be available at http://127.0.0.1:8000/.
@@ -93,5 +93,6 @@ npm run dev
 
 ## Author
 
-- Built by [Your Name]
+- Built by Frank
+
 
